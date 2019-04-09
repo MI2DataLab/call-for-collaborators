@@ -35,9 +35,9 @@ Integration of `archivist` hooks in the `pkgdown` package. Enriched technical do
 
 Learn more about `archivist` at https://github.com/pbiecek/archivist and https://www.jstatsoft.org/article/view/v082i11
 
-## ML for could
+## ML for cloud
 
-Development of could based model store.
+Development of cloud-based model store.
 
 Learn more about feature store at https://github.com/gojek/feast
 
@@ -45,4 +45,11 @@ Learn more about feature store at https://github.com/gojek/feast
 
 Extension of the `modelDown` package (https://github.com/MI2DataLab/modelDown) to a tool for contrastive comparisons of two ML models. 
 
-Learn more about DALEX at http://jmlr.org/papers/v19/18-416.html and modelDown at https://github.com/MI2DataLab/modelDown_example
+Learn more about `DALEX` at http://jmlr.org/papers/v19/18-416.html and `modelDown` at https://github.com/MI2DataLab/modelDown_example
+
+## Unit Tests for Models
+
+Extension of models' scores implemented in the `auditor` and implementation of automated unit tests for models (similar to tests in `testthat`).
+
+The `auditor` provides an easy to use unified interface for creating validation plots for any model. This visualizations allow to asses and compare the goodness of fit, performance, and similarity of models.
+Learn more about `auditor` at https://github.com/MI2DataLab/auditor and `testthat` at https://testthat.r-lib.org/ 

@@ -18,6 +18,8 @@ Please send an email to `przemyslaw.biecek` at `gmail.com` with
 -    short (5 sentences max) description of the most interesting project that you have worked on,
 -    selected projects that you would like to work on.
 
+Deadline: 30/04/2019 end of day.
+
 
 # Projects
 

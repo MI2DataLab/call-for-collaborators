@@ -28,5 +28,4 @@ This project is based on large heterogeneous dataset that combines tabular data 
 Please send an email to `przemyslaw.biecek` at `gmail.com` with
 
 - your resume, 
-- short (5 sentences max) description of the most interesting project that you have worked on,
-- selected projects that you would like to work on.
+- short (5 sentences max) description of the most interesting project that you have worked on.

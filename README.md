@@ -12,7 +12,7 @@ Apply ML/AI skills to predict outbreaks of diseases, predict potential errors ma
 - interesting open problems to solve
 - great team to work with: https://mi2-warsaw.github.io/#members
 - competitive salary (in comparison to other research positions)
-- these are research projects, you can make a MSc thesis or an interesting article based on these results
+- these are research projects, you can turn this project into a MSc thesis or an interesting publication
 
 ### We expect
 

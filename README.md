@@ -5,7 +5,7 @@ Join [MI2 Data Lab](https://mi2-warsaw.github.io/)! We are looking for students,
 ## Open call: ML for Personalized Medicine
 
 Currently we are looking for people interested in ML applications to large-scale medical data. 
-Apply ML/AI skills to predict outbreaks of diseases, predict potential errors made by physicians of predict rare diseases.
+Apply ML/AI skills to predict outbreaks of diseases, predict potential errors made by physicians, or predict rare diseases.
 
 ### We offer
 

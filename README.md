@@ -7,7 +7,7 @@ Join [MI2 Data Lab](https://mi2-warsaw.github.io/)! We are looking for students,
 Currently we are looking for people interested in ML applications to large-scale medical data. 
 Apply ML/AI skills to predict outbreaks of diseases, predict potential errors made by physicians, or predict rare diseases.
 
-This project is based on large heterogeneous dataset that combines tabular data with natural language annotations (in polish). Unique in scale (milions of data points) and structure (lots of aspects). Among all you will work on clinical free-text records and structured characteristics.
+This project is based on large heterogeneous dataset that combines tabular data with natural language annotations (in polish). Unique in scale (milions of data points) and structure (lots of aspects). Among all you will work on clinical free-text records and structured patient characteristics.
 
 ### We offer
 

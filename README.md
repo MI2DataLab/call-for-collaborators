@@ -1,3 +1,7 @@
+# Deprecated
+
+New positions will be listed at: https://mi2.ai/
+
 # MI2DataLab is looking for collaborators
 
 Join [MI2 Data Lab](https://mi2-warsaw.github.io/)! We are looking for students, PhD students and post-docs for various ML projects.
